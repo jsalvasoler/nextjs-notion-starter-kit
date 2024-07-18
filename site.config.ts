@@ -17,9 +17,9 @@ export default siteConfig({
   description: 'Joan Salvà Soler personal website',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
-  linkedin: 'fisch2',
+  twitter: 'jsalvasoler',
+  github: 'jsalvasoler',
+  linkedin: 'jsalvasoler',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -27,7 +27,7 @@ export default siteConfig({
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
   defaultPageIcon: null,
-  defaultPageCover: null,
+  defaultPageCover: 'https://jsalvasoler.vercel.app/cover_pic.jpeg',
   defaultPageCoverPosition: 0.5,
 
   // whether or not to enable support for LQIP preview images (optional)
