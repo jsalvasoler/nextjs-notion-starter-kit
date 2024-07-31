@@ -56,7 +56,7 @@
 .notion-gallery-grid {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   grid-gap: 6vmin;
-  gap: 6vmin;
+  gap: 2vmin 4vmin;
 }
 
 .notion-gallery-grid .notion-page-icon-inline {
@@ -64,7 +64,7 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
+  font-size: 1.8em;
   white-space: unset;
 }
 

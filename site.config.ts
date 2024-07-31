@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Joan Salvà Soler',
 
   // open graph metadata (optional)
-  description: 'Joan Salvà Soler personal website',
+  description: 'Welcome to my personal site! Joan Salvà Soler',
 
   // social usernames (optional)
   twitter: 'jsalvasoler',
