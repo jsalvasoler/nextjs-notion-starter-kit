@@ -17,7 +17,7 @@ export default siteConfig({
   description: 'Welcome to my personal site! Joan Salvà Soler',
 
   // social usernames (optional)
-  twitter: 'jsalvasoler',
+  twitter: '',
   github: 'jsalvasoler',
   linkedin: 'jsalvasoler',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
