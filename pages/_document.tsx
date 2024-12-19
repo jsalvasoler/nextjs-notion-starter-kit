@@ -9,6 +9,12 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
+            <meta charSet="utf-8" />
+            <meta name="robots" content="index, follow" />
+            <meta name="googlebot" content="index, follow" />
+            <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+            <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" />
+            
             <link rel='shortcut icon' href='/favicon.ico' />
             <link
               rel='icon'
@@ -18,6 +24,11 @@ export default class MyDocument extends Document {
             />
 
             <link rel='manifest' href='/manifest.json' />
+            
+            <link rel="alternate" href="https://jsalvasoler.vercel.app" hrefLang="x-default" />
+            <link rel="alternate" href="https://jsalvasoler.vercel.app" hrefLang="en" />
+            
+            <link rel="canonical" href="https://jsalvasoler.vercel.app" />
           </Head>
 
           <body>
