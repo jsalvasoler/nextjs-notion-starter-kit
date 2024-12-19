@@ -13,7 +13,7 @@ export default class MyDocument extends Document {
             <meta name="robots" content="index, follow" />
             <meta name="googlebot" content="index, follow" />
             <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-            <meta name="google-site-verification" content="YOUR_VERIFICATION_CODE" />
+            <meta name="google-site-verification" content="google7b9f85514ef073c3" />
             
             <link rel='shortcut icon' href='/favicon.ico' />
             <link
